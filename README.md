@@ -11,3 +11,5 @@ last changes in local repository
 last changes in github
 
 >>>>>>> refs/remotes/origin/master
+
+for mergetool some changes in remote
